@@ -1,0 +1,3 @@
+Software Engineer
+Responsibilities: Develop and maintain software applications.
+Skills: Python, AWS, Docker, SQL, Agile, REST APIs

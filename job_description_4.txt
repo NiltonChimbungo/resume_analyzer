@@ -1,0 +1,7 @@
+Junior DevOps Engineer
+Responsibilities:
+- Automate deployment pipelines
+- Monitor infrastructure and applications
+- Support CI/CD workflows
+Skills:
+Docker, Kubernetes, AWS, Jenkins, Bash, Terraform

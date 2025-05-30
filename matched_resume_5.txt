@@ -1,0 +1,3 @@
+Linda Chen
+Junior QA Engineer
+Skills: Manual Testing, Selenium, Bug Tracking, JIRA, Test Automation

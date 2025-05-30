@@ -1,0 +1,7 @@
+Junior Cybersecurity Analyst
+Responsibilities:
+- Monitor and analyze security events
+- Assist in vulnerability assessments
+- Help develop and enforce security policies
+Skills:
+Network Security, SIEM, Linux, Firewalls, Incident Response

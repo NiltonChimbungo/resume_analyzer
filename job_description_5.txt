@@ -1,0 +1,7 @@
+Junior QA Engineer
+Responsibilities:
+- Write and execute test cases
+- Identify and document bugs
+- Work with developers to ensure quality
+Skills:
+Manual Testing, Selenium, Bug Tracking, JIRA, Test Automation

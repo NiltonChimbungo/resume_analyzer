@@ -1,0 +1,3 @@
+Jane Smith
+Junior Front-End Developer
+Skills: HTML, CSS, JavaScript, React, Git, Responsive Design

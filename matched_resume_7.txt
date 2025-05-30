@@ -1,0 +1,3 @@
+Ava Brown
+Junior Machine Learning Engineer
+Skills: Python, scikit-learn, TensorFlow, Data Preprocessing, Pandas, Numpy

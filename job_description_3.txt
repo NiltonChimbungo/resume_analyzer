@@ -1,0 +1,7 @@
+Junior Data Analyst
+Responsibilities:
+- Analyze datasets to identify trends and insights
+- Create visual dashboards and reports
+- Support data-driven decision making
+Skills:
+Python, SQL, Excel, Tableau, Pandas, Data Visualization

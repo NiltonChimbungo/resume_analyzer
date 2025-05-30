@@ -1,0 +1,7 @@
+Junior Machine Learning Engineer
+Responsibilities:
+- Preprocess datasets and train ML models
+- Evaluate model performance
+- Deploy machine learning models to production
+Skills:
+Python, scikit-learn, TensorFlow, Data Preprocessing, Pandas, Numpy

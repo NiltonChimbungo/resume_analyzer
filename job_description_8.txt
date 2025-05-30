@@ -1,0 +1,7 @@
+Junior Mobile App Developer
+Responsibilities:
+- Develop mobile applications using cross-platform frameworks
+- Collaborate with design and backend teams
+- Publish apps to App Store and Play Store
+Skills:
+React Native, Flutter, Dart, JavaScript, APIs, Git

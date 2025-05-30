@@ -1,0 +1,7 @@
+Junior Front-End Developer
+Responsibilities:
+- Implement responsive UI components using HTML, CSS, and JavaScript
+- Collaborate with UX designers and backend developers
+- Maintain cross-browser compatibility and performance
+Skills:
+HTML, CSS, JavaScript, React, Git, Responsive Design

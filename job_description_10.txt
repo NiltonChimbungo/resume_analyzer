@@ -1,0 +1,7 @@
+Junior Cloud Engineer
+Responsibilities:
+- Support cloud-based infrastructure
+- Deploy applications on cloud platforms
+- Assist in cloud cost optimization
+Skills:
+AWS, Azure, Linux, Shell Scripting, Terraform, Cloud Networking

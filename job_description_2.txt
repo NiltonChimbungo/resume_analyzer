@@ -1,0 +1,7 @@
+Junior Back-End Developer
+Responsibilities:
+- Develop and maintain server-side logic
+- Integrate databases and external APIs
+- Ensure application performance and scalability
+Skills:
+Node.js, Express, SQL, MongoDB, REST APIs, Git

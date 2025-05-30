@@ -1,0 +1,3 @@
+Ethan Patel
+Junior DevOps Engineer
+Skills: Docker, Kubernetes, AWS, Jenkins, Bash, Terraform

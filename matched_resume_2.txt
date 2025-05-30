@@ -1,0 +1,3 @@
+Carlos Reyes
+Junior Back-End Developer
+Skills: Node.js, Express, SQL, MongoDB, REST APIs, Git

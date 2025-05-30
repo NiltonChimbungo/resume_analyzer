@@ -1,0 +1,3 @@
+Noah Wilson
+Junior Mobile App Developer
+Skills: React Native, Flutter, Dart, JavaScript, APIs, Git
